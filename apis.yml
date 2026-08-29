@@ -7,6 +7,17 @@ description: Fundamental (Fundamental Technologies Inc.) is an AI company buildi
   raised a $255M Series A in February 2026 and is backed by Kindred Ventures. It targets predictive analytics
   across financial services and other enterprise sectors. Fundamental publishes no public API or developer
   platform yet, so this profile is an identity record rather than a spec-bearing API.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
