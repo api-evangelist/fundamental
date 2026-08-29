@@ -31,6 +31,9 @@ accessModel:
   method: derived
 image: https://framerusercontent.com/images/hzCqz89SHakS26kFwNsgLq33bE.png
 url: https://raw.githubusercontent.com/api-evangelist/fundamental/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Fundamental publishes no public API or developer platform yet, so this profile is an identity record rather than a spec-bearing API."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
